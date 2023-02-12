@@ -4,5 +4,5 @@ AddaTimes UI app.
 ## **Screenshots**
 ### **App screenshot**
 <img width="200" height="433" src="./assets/images/app_screenshot.jpg">
-<img width="200" height="400" alt="app_preview" src="">
+<img width="200" height="400" alt="app_preview" src="https://media.giphy.com/media/ODYnnv7hfxfLHcKjoi/giphy.gif">
 
